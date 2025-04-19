@@ -15,6 +15,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -77,4 +78,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
