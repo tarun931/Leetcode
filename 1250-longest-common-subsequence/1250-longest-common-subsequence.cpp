@@ -25,7 +25,25 @@ public:
         }
         return dp[n][m];
     }
+    int helper3(string t1, string t2)
+    {
+        int n = t1.length();
+        int m = t2.length();
+        vector<int> prev(m+1,0),cur(m+1,0);
+        for(int i=1;i<=n ;i++)
+        {
+            for(int j=1;j<=m;j++)
+            {
+                if(t1[i-1]==t2[j-1])
+                    cur[j] = 1 + prev[j-1];
+                else
+                    cur[j] = max(prev[j],cur[j-1]);
+            }
+            prev = cur;
+        }
+        return prev[m];
+    }
     int longestCommonSubsequence(string text1, string text2) {
-        return helper2(text1,text2);
+        return helper3(text1,text2);
     }
 };
