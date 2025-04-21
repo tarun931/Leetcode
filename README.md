@@ -9,6 +9,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -91,4 +92,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
