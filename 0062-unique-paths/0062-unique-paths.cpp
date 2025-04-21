@@ -1,5 +1,13 @@
 class Solution {
 public:
+    int helper1(int m ,int n,int i ,int j)
+    {  
+        if(i>=m || j>=n)
+           return 0;
+        if((i==m-1 && j==n-1))
+            return 1;
+       return helper1(m,n,i+1,j)+helper1(m,n,i,j+1);        
+    }
     int helper(int m , int n )
     {
         vector<vector<int>> dp(m,vector<int>(n,0));
@@ -19,10 +27,6 @@ public:
     int helper2(int m , int n )
     {
         vector<int> prev(n,1),cur(n,0);
-        // for(int i=0;i<m;i++);
-        //     dp[i][0]=1;
-        // for(int i=0;i<n;i++)
-        //     dp[0][i] = 1;
         for(int i=1;i<m;i++)
         {
             prev[0]=1;
@@ -36,6 +40,7 @@ public:
         return prev[n-1];
     }
     int uniquePaths(int m, int n) {
+        // return helper2(m,n);
         return helper2(m,n);
     }
 };
