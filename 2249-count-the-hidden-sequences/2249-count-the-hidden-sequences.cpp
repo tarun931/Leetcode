@@ -1,8 +1,8 @@
 class Solution {
 public:
     int numberOfArrays(vector<int>& differences, int lower, int upper) {
-       long long max_sum = 0;
-       long long min_sum=0; 
+       long long max_sum = INT_MIN;
+       long long min_sum=INT_MAX; 
        long long sum = 0 ;
        for(int i=0;i<differences.size();i++)
        {
