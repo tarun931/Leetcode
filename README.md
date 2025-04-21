@@ -17,6 +17,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -65,6 +66,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
@@ -78,6 +80,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
