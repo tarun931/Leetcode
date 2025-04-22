@@ -7,6 +7,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -20,6 +21,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Two Pointers
