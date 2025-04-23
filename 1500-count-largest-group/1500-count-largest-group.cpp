@@ -15,11 +15,6 @@ public:
            size = max(size,mp[digit]);
         }
         int ans = 0;
-        // int size = 0;
-        // for(auto it : mp)
-        // {
-        //   size = max(size,it.second);
-        // }
         for(auto it : mp)
         {
             if(it.second == size )
