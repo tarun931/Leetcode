@@ -14,6 +14,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tarun931/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -80,6 +81,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tarun931/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
