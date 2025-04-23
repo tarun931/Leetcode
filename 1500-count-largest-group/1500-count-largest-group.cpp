@@ -8,12 +8,10 @@ public:
         freq[1]=1;
         for(int i=2;i<=n;i++)
         {
-           string str = to_string(i);
+           
            int digit =0 ;
-           for(int j=0;j<str.length();j++)
-           {
-             digit = digit + (str[j] - '0');
-           }
+           for(int x=i;x>0; x/=10 )
+                digit += x%10;
             freq[digit] +=1 ;
             if(freq[digit]==mf)
                ans++;
