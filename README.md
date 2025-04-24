@@ -18,6 +18,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tarun931/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Dynamic Programming
 |  |
@@ -49,10 +50,12 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
