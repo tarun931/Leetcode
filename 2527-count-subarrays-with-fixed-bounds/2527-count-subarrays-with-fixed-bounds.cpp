@@ -50,7 +50,7 @@ public:
         // }
         // return cnt;
         int n = nums.size();
-        long long ans = 0;
+        long long cnt = 0;
         
         int lastMini = -1, lastMaxi = -1, lastOut = -1;
         
@@ -67,9 +67,9 @@ public:
             
             int minStart = min(lastMini, lastMaxi);
             if (minStart > lastOut) {
-                ans += (minStart - lastOut);
+                cnt += (minStart - lastOut);
             }
         }
-        return ans;
+        return cnt;
     }
 };
