@@ -14,6 +14,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tarun931/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -56,6 +57,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
@@ -130,4 +132,12 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
