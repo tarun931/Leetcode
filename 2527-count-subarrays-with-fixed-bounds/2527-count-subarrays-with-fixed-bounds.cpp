@@ -52,22 +52,22 @@ public:
         int n = nums.size();
         long long ans = 0;
         
-        int lastMin = -1, lastMax = -1, lastInvalid = -1;
+        int lastMini = -1, lastMaxi = -1, lastOut = -1;
         
         for (int i = 0; i < n; i++) {
             if (nums[i] < minK || nums[i] > maxK) {
-                lastInvalid = i;
+                lastOut = i;
             }
             if (nums[i] == minK) {
-                lastMin = i;
+                lastMini = i;
             }
             if (nums[i] == maxK) {
-                lastMax = i;
+                lastMaxi = i;
             }
             
-            int validStart = min(lastMin, lastMax);
-            if (validStart > lastInvalid) {
-                ans += (validStart - lastInvalid);
+            int minStart = min(lastMini, lastMaxi);
+            if (minStart > lastOut) {
+                ans += (minStart - lastOut);
             }
         }
         return ans;
