@@ -4,10 +4,7 @@ public:
        int cnt = 0;
        for(int i=2;i<nums.size();i++)
        {
-         float one = nums[i-2];
-         float two = nums[i-1];
-         float th = nums[i];
-         if((two/2)==(one+th))
+         if(((float)nums[i-1]/2)==((float)nums[i-2]+(float)nums[i]))
             cnt++;
        }
        return cnt ;
