@@ -11,6 +11,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -91,6 +92,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
