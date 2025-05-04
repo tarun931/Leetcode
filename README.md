@@ -12,6 +12,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tarun931/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -62,6 +63,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -196,4 +198,8 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun931/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
