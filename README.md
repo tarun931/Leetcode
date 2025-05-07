@@ -180,6 +180,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0110-balanced-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0110-balanced-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,4 +224,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tarun931/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
