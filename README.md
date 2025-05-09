@@ -46,6 +46,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/tarun931/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tarun931/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3637-count-number-of-balanced-permutations](https://github.com/tarun931/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/tarun931/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/tarun931/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
