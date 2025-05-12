@@ -1,14 +1,5 @@
 class Solution {
 public:
-    bool isvalid(int num)
-    {
-        //cout<<num<<" ";
-        if(num/100 == 0)
-            return false;
-        if(num%2 != 0)
-            return false;
-        return true;       
-    }
     vector<int> findEvenNumbers(vector<int>& digits) {
         vector<int> ans;
         unordered_map<int,int>mp;
@@ -36,7 +27,7 @@ public:
                 if(two == -1 || three == -1)
                      continue;
                   int n = one*100 + two*10 + three;
-                 if(isvalid(n) && mp.find(n)==mp.end()){
+                 if(n>=100 && n%2==0 && mp.find(n)==mp.end()){
                       ans.push_back(n);
                       //cout<<n<<endl;
                       mp[n]++;
