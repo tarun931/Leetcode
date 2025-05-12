@@ -29,7 +29,7 @@ public:
                //cout<<two<<" ";
                for(int k = 0;k<digits.size();k++)
                {
-                if(k==i || k==j)
+                if(k==i || k==j || (digits[k]%2!=0))
                    continue;
                 three = digits[k];
                 //cout<<three<<" "<<k<<endl;
