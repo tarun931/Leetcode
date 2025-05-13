@@ -24,3 +24,4 @@ public:
 private:
     static constexpr int mod = 1000000007;
 };
+
