@@ -16,24 +16,19 @@ public:
             if(r>0)
             {
                 nums[st] = 0;
-                st++;
                 r--;
-                continue;
             }
             else if(w>0)
             {
                 nums[st] = 1;
-                st++;
                 w--;
-                continue;
             }
             else if(b>0)
             {
                 nums[st] = 2;
-                st++;
                 b--;
-                continue;
             }
+            st++;
         }
     }
 };
