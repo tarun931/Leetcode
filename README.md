@@ -35,6 +35,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tarun931/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tarun931/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/tarun931/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/tarun931/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tarun931/Leetcode/tree/master/3321-type-of-triangle) |
@@ -173,6 +174,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/tarun931/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tarun931/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tarun931/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun931/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
