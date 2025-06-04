@@ -8,7 +8,7 @@ string lastSubstring(string s) {
             if (j + k < n && s[i + k] < s[j + k]) {
                 int t = i;
                 i = j;
-                j = max(j + 1, t + k + 1);
+                j = max(j + 1, j + k );
             } else {
                 j = j + k + 1;
             }
