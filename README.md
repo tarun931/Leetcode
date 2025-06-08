@@ -274,6 +274,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0110-balanced-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tarun931/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/tarun931/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/tarun931/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -354,4 +355,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tarun931/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/tarun931/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
