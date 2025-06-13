@@ -33,6 +33,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/tarun931/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -85,6 +86,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun931/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tarun931/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tarun931/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
