@@ -17,8 +17,8 @@ public:
             if ((i + 1) % 3 == 0 && i != 0) 
             {
                 diff = 0;
-                if(nums[i] - lowest > k)
-                     return {};
+                // if(nums[i] - lowest > k)
+                //      return {};
                 sol.push_back(nums[i]);
                 ans.push_back(sol);
                 sol.clear();
