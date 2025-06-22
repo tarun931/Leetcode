@@ -10,8 +10,9 @@ class Solution:
         ans.append(sol)
         n = len(ans)
         m = len(ans[-1])
-        if(m<k):
-            while(m<k):
-                ans[-1] += fill
-                m = len(ans[-1])
+        # if(m<k):
+        #     while(m<k):
+        #         ans[-1] += fill
+        #         m = len(ans[-1])
+        ans[-1] += fill *( k-len(ans[-1]))
         return ans               
