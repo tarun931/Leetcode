@@ -9,9 +9,9 @@ class Solution:
             sol += i    
         ans.append(sol)
         n = len(ans)
-        m = len(ans[n-1])
+        m = len(ans[-1])
         if(m<k):
             while(m<k):
-                ans[n-1] += fill
-                m = len(ans[n-1])
+                ans[-1] += fill
+                m = len(ans[-1])
         return ans               
