@@ -12,6 +12,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/tarun931/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
+| [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/tarun931/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -101,6 +102,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -117,6 +119,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -138,6 +141,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -355,6 +359,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tarun931/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun931/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
