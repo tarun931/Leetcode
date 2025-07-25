@@ -19,6 +19,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tarun931/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/tarun931/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tarun931/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -332,6 +333,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/tarun931/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tarun931/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tarun931/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -385,6 +387,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0386-lexicographical-numbers](https://github.com/tarun931/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/tarun931/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tarun931/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -414,6 +417,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0199-binary-tree-right-side-view](https://github.com/tarun931/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0945-snakes-and-ladders](https://github.com/tarun931/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tarun931/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tarun931/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/tarun931/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -480,6 +484,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tarun931/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Trie
 |  |
 | ------- |
