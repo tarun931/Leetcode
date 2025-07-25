@@ -1,6 +1,5 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-        spells
         potions.sort()
         ans = []
         for item in spells:
