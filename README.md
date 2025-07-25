@@ -43,6 +43,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tarun931/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tarun931/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -89,6 +90,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tarun931/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tarun931/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -115,6 +117,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tarun931/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -288,6 +291,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tarun931/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tarun931/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tarun931/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tarun931/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -304,6 +308,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/tarun931/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/tarun931/Leetcode/tree/master/3639-zero-array-transformation-i) |
