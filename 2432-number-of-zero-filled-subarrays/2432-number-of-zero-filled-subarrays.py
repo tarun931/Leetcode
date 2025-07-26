@@ -13,5 +13,5 @@ class Solution:
                 res+= leng
                 i += 1
             ans += res    
-            
+            i+=1
         return ans
