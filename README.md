@@ -242,6 +242,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -558,6 +559,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0021-merge-two-sorted-lists](https://github.com/tarun931/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tarun931/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/tarun931/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
