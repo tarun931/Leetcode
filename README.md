@@ -98,6 +98,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/tarun931/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tarun931/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -203,6 +204,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/tarun931/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tarun931/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -246,6 +248,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0342-power-of-four](https://github.com/tarun931/Leetcode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
@@ -585,4 +588,5 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
