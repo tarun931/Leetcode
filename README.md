@@ -14,6 +14,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0162-find-peak-element](https://github.com/tarun931/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tarun931/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -246,6 +247,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarun931/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
@@ -271,6 +273,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
