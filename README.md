@@ -75,6 +75,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tarun931/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tarun931/Leetcode/tree/master/3321-type-of-triangle) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tarun931/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -307,6 +308,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/tarun931/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun931/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tarun931/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/tarun931/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tarun931/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -399,6 +401,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tarun931/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tarun931/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tarun931/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
