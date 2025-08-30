@@ -6,6 +6,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -187,6 +188,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -399,6 +401,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
