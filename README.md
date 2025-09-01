@@ -7,6 +7,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -189,6 +190,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -288,6 +290,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -402,6 +405,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
