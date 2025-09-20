@@ -98,6 +98,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/tarun931/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tarun931/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tarun931/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tarun931/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tarun931/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -267,6 +270,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -442,6 +446,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -624,6 +629,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
