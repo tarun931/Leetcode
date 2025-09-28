@@ -7,10 +7,15 @@ class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
+
         cur = head
-        fast = head
-        while fast and fast.next:
+        fast = head.next
+        while(fast.next and fast.next.next):
             cur = cur.next
-            fast= fast.next.next
-        return cur        
+            fast = fast.next.next
+        cur = cur.next
+        return cur    
+
+             
+               
         
