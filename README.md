@@ -22,6 +22,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0934-bitwise-ors-of-subarrays](https://github.com/tarun931/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tarun931/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/tarun931/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tarun931/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/tarun931/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -174,6 +175,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -285,6 +287,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tarun931/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
@@ -382,6 +385,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0135-candy](https://github.com/tarun931/Leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tarun931/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tarun931/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
