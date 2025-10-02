@@ -304,6 +304,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tarun931/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tarun931/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/tarun931/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/tarun931/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/tarun931/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tarun931/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -569,6 +570,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tarun931/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/tarun931/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/tarun931/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
