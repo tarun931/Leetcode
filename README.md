@@ -6,6 +6,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tarun931/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -145,6 +146,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tarun931/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -392,6 +394,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tarun931/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/tarun931/Leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
