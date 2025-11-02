@@ -132,6 +132,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tarun931/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tarun931/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tarun931/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/tarun931/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tarun931/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/tarun931/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tarun931/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -468,6 +469,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/tarun931/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -584,6 +586,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2048-build-array-from-permutation](https://github.com/tarun931/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tarun931/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tarun931/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/tarun931/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/tarun931/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/tarun931/Leetcode/tree/master/3336-water-bottles-ii) |
