@@ -5,7 +5,6 @@ class Solution:
         for i in range(len(nums)) :
             arr.append(num*2+nums[i])
             num  = num*2+nums[i]
-            # print(num)
         ans = []
         for ele in arr:
             if ele%5 ==0:
