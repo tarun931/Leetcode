@@ -10,13 +10,6 @@ class Solution:
                 ans.append(True)
             else:
                 ans.append(False)
-
-        
-        # for ele in arr:
-        #     if ele%5 ==0:
-        #         ans.append(True)
-        #     else:
-        #         ans.append(False)
         return ans                 
 
 
