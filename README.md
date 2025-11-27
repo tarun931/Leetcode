@@ -11,6 +11,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun931/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tarun931/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/tarun931/Leetcode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/tarun931/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -351,6 +352,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun931/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tarun931/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/tarun931/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/tarun931/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tarun931/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
