@@ -19,8 +19,7 @@ class Solution:
         cur = root
         while cur or stack:
             if not cur:
-                cur = stack.pop().right
-                # continue    
+                cur = stack.pop().right   
             ans.append(cur.val)
             if cur.right:
                 stack.append(cur)
