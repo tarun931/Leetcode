@@ -20,9 +20,10 @@ class Solution:
         while cur or stack:
             if not cur:
                 cur = stack.pop().right
-                continue    
+                # continue    
             ans.append(cur.val)
-            stack.append(cur)
+            if cur.right:
+                stack.append(cur)
             cur = cur.left
         return ans    
 
