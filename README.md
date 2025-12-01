@@ -231,6 +231,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0036-valid-sudoku](https://github.com/tarun931/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tarun931/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -315,6 +316,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0060-permutation-sequence](https://github.com/tarun931/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarun931/Leetcode/tree/master/0342-power-of-four) |
@@ -409,6 +411,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/tarun931/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tarun931/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
