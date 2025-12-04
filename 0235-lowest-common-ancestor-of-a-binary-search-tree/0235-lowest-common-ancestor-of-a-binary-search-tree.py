@@ -12,10 +12,8 @@ class Solution:
         maxi, minin = p.val , p.val    
         maxi , mini = max(p.val , q.val) , min(p.val , q.val)    
         if (maxi>= root.val and mini<=root.val):
-            return root
-        if maxi>root.val and mini>root.val:
-            return self.lowestCommonAncestor(root.right , p, q) 
-        return self.lowestCommonAncestor(root.left , p,q) 
+            return root    
+        return   self.lowestCommonAncestor(root.left , p,q) or  self.lowestCommonAncestor(root.right , p, q) 
 
 
         
