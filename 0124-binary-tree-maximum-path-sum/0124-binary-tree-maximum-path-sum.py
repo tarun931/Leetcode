@@ -16,8 +16,7 @@ class Solution:
             rsum , rcur = ans(root.right)
             lcur = max(lcur,0)
             rcur = max(rcur,0)
-            cur = max(lcur,rcur)+root.val
-            
+            cur = max(lcur,rcur)+root.val 
             return max(lsum,rsum ,lcur+rcur+root.val ) , cur
         sumi, _ = ans(root)
         return sumi    
