@@ -427,6 +427,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1636-number-of-substrings-with-only-1s](https://github.com/tarun931/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tarun931/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/tarun931/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun931/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tarun931/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tarun931/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -545,6 +546,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/tarun931/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/tarun931/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tarun931/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tarun931/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -648,6 +650,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1642-water-bottles](https://github.com/tarun931/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/tarun931/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tarun931/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/tarun931/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tarun931/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tarun931/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/tarun931/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
