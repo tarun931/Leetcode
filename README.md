@@ -563,6 +563,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tarun931/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -583,6 +584,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tarun931/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/tarun931/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tarun931/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -609,6 +611,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun931/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tarun931/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
