@@ -1,12 +1,18 @@
 class Solution:
     def specialTriplets(self, nums: List[int]) -> int:
-        n, MOD=len(nums), 10**9+7
-        freq, prev=Counter(nums), Counter()
-        cnt=0
-        prev[nums[0]]+=1
-        for i in range(1, n-1):
-            x=nums[i]
-            x2=x<<1
-            cnt+=prev[x2]*(freq[x2]-prev[x2]-(x==0))
-            prev[x]+=1
-        return cnt%MOD
+        MOD = 10**9 + 7
+        num_cnt = {}
+        num_partial_cnt = {}
+
+        for v in nums:
+            num_cnt[v] = num_cnt.get(v, 0) + 1
+
+        ans = 0
+        for v in nums:
+            target = v * 2
+            l_cnt = num_partial_cnt.get(target, 0)
+            num_partial_cnt[v] = num_partial_cnt.get(v, 0) + 1
+            r_cnt = num_cnt.get(target, 0) - num_partial_cnt.get(target, 0)
+            ans = (ans + l_cnt * r_cnt) % MOD
+
+        return ans
