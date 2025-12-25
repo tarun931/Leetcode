@@ -17,23 +17,8 @@ class Solution:
             else:
                 val = root1.val+root2.val    
             root = TreeNode(val)
-            if root1 and root2:
-                root.left = helper(root1.left , root2.left)
-            elif root1:
-                root.left = helper(root1.left , None)
-            elif root2:
-                root.left = helper(None , root2.left)
-            else:
-                root.left = None    
-
-            if root1 and root2:        
-                root.right = helper(root1.right , root2.right)
-            elif root1:
-                root.right = helper(root1.right , None)
-            elif root2:
-                root.right = helper(None , root2.right)   
-            else:
-                root.right = None         
+            root.left = helper(root1.left if root1 else None , root2.left if root2 else None)    
+            root.right = helper(root1.right if root1 else None , root2.right if root2 else None)      
             return root 
 
         return helper(root1 , root2)           
