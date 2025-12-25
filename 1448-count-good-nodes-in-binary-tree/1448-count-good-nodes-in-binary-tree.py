@@ -10,12 +10,13 @@ class Solution:
         def helper(root, v):
             if not root:
                 return 0
-            lefty = helper(root.left , max(v, root.val) )    
-            righty = helper(root.right , max(v, root.val) )
+            ans= 0
+            ans += helper(root.left , max(v, root.val) )    
+            ans += helper(root.right , max(v, root.val) )
             if root.val >= v :
-                return 1 + (lefty+righty) 
+                return 1 + ans 
             
-            return (lefty+righty)
+            return ans
         return helper(root , -1000000)            
                 
         
