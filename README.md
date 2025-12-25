@@ -578,6 +578,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tarun931/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -603,6 +604,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1073-number-of-enclaves](https://github.com/tarun931/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tarun931/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/tarun931/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/tarun931/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -629,6 +631,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -645,6 +648,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1073-number-of-enclaves](https://github.com/tarun931/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tarun931/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/tarun931/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tarun931/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/tarun931/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
