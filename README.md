@@ -176,6 +176,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0011-container-with-most-water](https://github.com/tarun931/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -556,6 +557,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -768,6 +770,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun931/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/tarun931/Leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tarun931/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
@@ -785,6 +788,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun931/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tarun931/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
