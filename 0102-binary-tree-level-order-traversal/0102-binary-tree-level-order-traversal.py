@@ -7,8 +7,8 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         # res = []
-        
-        def helper(root,ans):
+        ans = [] 
+        def helper(root):
             if not root :
                 return []
             q = deque()
@@ -26,8 +26,8 @@ class Solution:
                             q.append(cur.right)
                 ans.append(res) 
             return []
-        ans = []    
-        helper(root,ans)
+           
+        helper(root)
         return ans               
 
 
