@@ -180,6 +180,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -563,6 +564,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0094-binary-tree-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/tarun931/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -782,6 +784,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tarun931/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarun931/Leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -799,6 +802,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0021-merge-two-sorted-lists](https://github.com/tarun931/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tarun931/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
