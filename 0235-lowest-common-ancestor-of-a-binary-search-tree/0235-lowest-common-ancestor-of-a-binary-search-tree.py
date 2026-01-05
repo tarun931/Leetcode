@@ -9,8 +9,11 @@ class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         if not root:
             return None
-        maxi, minin = p.val , p.val    
-        maxi , mini = max(p.val , q.val) , min(p.val , q.val)    
-        if (maxi>= root.val and mini<=root.val):
+        # mini , maxi = p.val , p.val
+        mini, maxi = min(p.val,q.val) , max(p.val,q.val)    
+        if root.val >= mini and root.val<=maxi:
             return root
-        return   self.lowestCommonAncestor(root.left , p,q) or  self.lowestCommonAncestor(root.right , p, q) 
+        # if root.val == p or root.val == q:
+        #     return root
+        return (self.lowestCommonAncestor(root.left,p ,q) or self.lowestCommonAncestor(root.right,p,q))         
+        
