@@ -9,8 +9,6 @@ class Solution:
         def helper(root):
             if not root :
                 return float(-inf),0
-            # if not root.left and not root.right :
-            #     return root.val  , root.val  
             left_ans , lefty = helper(root.left)
             right_ans , righty = helper(root.right)
             lefty = max(lefty, 0)
