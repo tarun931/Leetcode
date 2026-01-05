@@ -247,6 +247,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0073-set-matrix-zeroes](https://github.com/tarun931/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -438,6 +439,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0131-palindrome-partitioning](https://github.com/tarun931/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tarun931/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/tarun931/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -775,6 +777,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/tarun931/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tarun931/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tarun931/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -794,6 +797,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/tarun931/Leetcode/tree/master/3797-design-spreadsheet) |
