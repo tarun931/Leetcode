@@ -8,7 +8,7 @@ class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         def helper(root):
             if not root :
-                return 0,0
+                return float(-inf),0
             if not root.left and not root.right :
                 return root.val  , root.val  
             left_ans , lefty = helper(root.left)
