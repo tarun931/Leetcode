@@ -604,6 +604,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tarun931/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -634,6 +635,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0617-merge-two-binary-trees](https://github.com/tarun931/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/tarun931/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tarun931/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -671,6 +673,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
