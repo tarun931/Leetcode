@@ -250,6 +250,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/tarun931/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -602,6 +603,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0617-merge-two-binary-trees](https://github.com/tarun931/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -633,6 +635,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0417-pacific-atlantic-water-flow](https://github.com/tarun931/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tarun931/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/tarun931/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -671,6 +674,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0617-merge-two-binary-trees](https://github.com/tarun931/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -687,6 +691,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tarun931/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/tarun931/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/tarun931/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
