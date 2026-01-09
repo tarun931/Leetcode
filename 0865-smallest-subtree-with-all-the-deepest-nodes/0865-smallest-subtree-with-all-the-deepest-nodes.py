@@ -38,26 +38,18 @@
    
 class Solution:
     def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:    
-        def dfs(node):
-            if not node:
-                return (0, None)
-            ld, lnode = dfs(node.left)
-            rd, rnode = dfs(node.right)
+        def helper(root):
+            if not root:
+                return 0 , None
+            hl , lnode = helper(root.left)
+            hr , rnode = helper(root.right)
+            if hl > hr:
+                return hl+1 , lnode
+            elif hl< hr:
+                return hr+1 , rnode
 
-            if ld > rd:
-                return (ld + 1, lnode)
-            if rd > ld:
-                return (rd + 1, rnode)
-
-            return (ld + 1, node)
-
-        return dfs(root)[1]
-
-   
-                        
-    
-
-                
+            return hl+1 , root
+        return helper(root)[1]                  
 
 
 
