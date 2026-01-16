@@ -92,6 +92,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/tarun931/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tarun931/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tarun931/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -277,6 +278,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/tarun931/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tarun931/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tarun931/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tarun931/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -433,6 +435,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/tarun931/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun931/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tarun931/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tarun931/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tarun931/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
