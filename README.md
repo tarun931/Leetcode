@@ -57,6 +57,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/tarun931/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tarun931/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/tarun931/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -523,6 +524,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/tarun931/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tarun931/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/tarun931/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tarun931/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -554,6 +556,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
