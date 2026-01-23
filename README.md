@@ -115,6 +115,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tarun931/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/tarun931/Leetcode/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tarun931/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -284,6 +285,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tarun931/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tarun931/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/tarun931/Leetcode/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tarun931/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tarun931/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -338,6 +340,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -747,6 +750,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2470-removing-stars-from-a-string](https://github.com/tarun931/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/tarun931/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
@@ -766,6 +770,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tarun931/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tarun931/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tarun931/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tarun931/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tarun931/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -840,6 +845,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarun931/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -864,4 +870,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/tarun931/Leetcode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
