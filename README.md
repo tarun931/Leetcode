@@ -98,6 +98,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tarun931/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tarun931/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tarun931/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tarun931/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tarun931/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tarun931/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tarun931/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -290,6 +291,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/tarun931/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tarun931/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tarun931/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tarun931/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tarun931/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -320,6 +322,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tarun931/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tarun931/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/tarun931/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/tarun931/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tarun931/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -786,6 +789,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tarun931/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tarun931/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tarun931/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tarun931/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tarun931/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
