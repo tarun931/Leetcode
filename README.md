@@ -112,6 +112,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tarun931/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tarun931/Leetcode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/tarun931/Leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tarun931/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/tarun931/Leetcode/tree/master/3453-separate-squares-i) |
@@ -768,6 +769,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2470-removing-stars-from-a-string](https://github.com/tarun931/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/tarun931/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/tarun931/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/tarun931/Leetcode/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tarun931/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tarun931/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
