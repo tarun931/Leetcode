@@ -26,6 +26,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tarun931/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/tarun931/Leetcode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tarun931/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -269,6 +270,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tarun931/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -612,6 +614,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tarun931/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -888,6 +891,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
