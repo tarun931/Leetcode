@@ -469,6 +469,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tarun931/Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/tarun931/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -606,6 +607,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tarun931/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
