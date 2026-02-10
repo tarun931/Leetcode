@@ -133,6 +133,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tarun931/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tarun931/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tarun931/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/tarun931/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/tarun931/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tarun931/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -306,6 +307,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tarun931/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tarun931/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tarun931/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tarun931/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tarun931/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -338,6 +340,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -347,6 +350,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/tarun931/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/tarun931/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -561,6 +565,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tarun931/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/tarun931/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/tarun931/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tarun931/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/tarun931/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
