@@ -8,6 +8,8 @@ class Solution:
                 d[nums[i]] += 1        
         
         maxHeap = [(-freq , ele) for ele , freq in d.items()]
+        # for key, val in counter.items():
+        #     heapq.heappush(heap, (-val, key))
 
         heapq.heapify(maxHeap)
 
