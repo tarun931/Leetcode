@@ -25,6 +25,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0162-find-peak-element](https://github.com/tarun931/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/tarun931/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tarun931/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -236,6 +237,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0075-sort-colors](https://github.com/tarun931/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/tarun931/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -271,6 +273,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tarun931/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -339,6 +342,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun931/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
@@ -755,6 +759,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/tarun931/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/tarun931/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tarun931/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -800,6 +805,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tarun931/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tarun931/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tarun931/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -917,8 +923,13 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tarun931/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Graph Theory
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tarun931/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
