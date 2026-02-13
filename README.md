@@ -606,6 +606,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tarun931/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/tarun931/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tarun931/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -622,6 +623,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0094-binary-tree-inorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tarun931/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/tarun931/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tarun931/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -874,6 +876,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/tarun931/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
