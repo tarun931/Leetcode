@@ -159,6 +159,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0337-house-robber-iii](https://github.com/tarun931/Leetcode/tree/master/0337-house-robber-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tarun931/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun931/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/tarun931/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/tarun931/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/tarun931/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/tarun931/Leetcode/tree/master/0867-new-21-game) |
