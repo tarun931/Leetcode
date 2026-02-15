@@ -378,6 +378,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | ------- |
 | [0060-permutation-sequence](https://github.com/tarun931/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/tarun931/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/tarun931/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tarun931/Leetcode/tree/master/0326-power-of-three) |
@@ -439,6 +440,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tarun931/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/tarun931/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/tarun931/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tarun931/Leetcode/tree/master/0342-power-of-four) |
@@ -481,6 +483,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun931/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/tarun931/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tarun931/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/tarun931/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -782,6 +785,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tarun931/Leetcode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/tarun931/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/tarun931/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tarun931/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
