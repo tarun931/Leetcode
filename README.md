@@ -202,6 +202,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0143-reorder-list](https://github.com/tarun931/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/tarun931/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/tarun931/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0696-count-binary-substrings](https://github.com/tarun931/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/tarun931/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -491,6 +492,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0166-fraction-to-recurring-decimal](https://github.com/tarun931/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun931/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0696-count-binary-substrings](https://github.com/tarun931/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tarun931/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/tarun931/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tarun931/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
