@@ -62,6 +62,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1813-maximum-erasure-value](https://github.com/tarun931/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tarun931/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/tarun931/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -218,6 +219,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarun931/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tarun931/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tarun931/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/tarun931/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -600,6 +602,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/tarun931/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tarun931/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -710,6 +713,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tarun931/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/tarun931/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/tarun931/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -768,6 +772,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tarun931/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tarun931/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/tarun931/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tarun931/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/tarun931/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -950,4 +955,8 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tarun931/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
