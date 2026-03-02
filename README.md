@@ -56,6 +56,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tarun931/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tarun931/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tarun931/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tarun931/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/tarun931/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tarun931/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -550,6 +551,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1262-greatest-sum-divisible-by-three](https://github.com/tarun931/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tarun931/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tarun931/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tarun931/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun931/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tarun931/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun931/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -609,6 +611,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarun931/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/tarun931/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tarun931/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
