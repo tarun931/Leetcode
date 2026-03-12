@@ -463,6 +463,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0693-binary-number-with-alternating-bits](https://github.com/tarun931/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/tarun931/Leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tarun931/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/tarun931/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tarun931/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tarun931/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tarun931/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
