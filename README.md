@@ -239,6 +239,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tarun931/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/tarun931/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tarun931/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tarun931/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3790-fruits-into-baskets-ii](https://github.com/tarun931/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tarun931/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/tarun931/Leetcode/tree/master/3827-implement-router) |
@@ -582,6 +583,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tarun931/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tarun931/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tarun931/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tarun931/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3647-zero-array-transformation-iii](https://github.com/tarun931/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/tarun931/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tarun931/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -980,6 +982,7 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tarun931/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tarun931/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -988,5 +991,10 @@ Leetcode + interviewBit + Scaler + Codechef
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tarun931/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tarun931/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tarun931/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
