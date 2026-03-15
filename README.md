@@ -368,6 +368,7 @@ Leetcode + interviewBit + Scaler + Codechef
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/tarun931/Leetcode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tarun931/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/tarun931/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/tarun931/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -415,6 +416,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1500-count-largest-group](https://github.com/tarun931/Leetcode/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tarun931/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tarun931/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/tarun931/Leetcode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tarun931/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/tarun931/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/tarun931/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -936,6 +938,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [0225-implement-stack-using-queues](https://github.com/tarun931/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tarun931/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tarun931/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1622-fancy-sequence](https://github.com/tarun931/Leetcode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tarun931/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/tarun931/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/tarun931/Leetcode/tree/master/3797-design-spreadsheet) |
