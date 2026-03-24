@@ -65,6 +65,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1813-maximum-erasure-value](https://github.com/tarun931/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tarun931/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/tarun931/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tarun931/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/tarun931/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -652,6 +653,7 @@ Leetcode + interviewBit + Scaler + Codechef
 | [1628-count-submatrices-with-all-ones](https://github.com/tarun931/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tarun931/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/tarun931/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tarun931/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/tarun931/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tarun931/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/tarun931/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
